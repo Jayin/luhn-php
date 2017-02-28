@@ -1,6 +1,7 @@
 {
   "name": "jayin/luhn-php",
   "description": "parser CCID implement in PHP",
+  "license": "MIT",
   "authors": [
     {
       "name": "Jayin Ton",
