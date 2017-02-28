@@ -1,0 +1,16 @@
+{
+  "name": "jayin/luhn-php",
+  "description": "parser CCID implement in PHP",
+  "authors": [
+    {
+      "name": "Jayin Ton",
+      "email": "tonjayin@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Jayin\\": "src/"
+    }
+  }
+}
