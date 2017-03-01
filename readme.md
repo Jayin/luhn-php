@@ -13,7 +13,7 @@ composer require "jayin/luhn-php"
 ```php
 require_once("vendor/autoload.php");
 
-echo \Jayin\CCID::getRealCCID('7992739871x');
+echo \Jayin\Luhn::parser('7992739871x');
 //=>  79927398713
 ```
 
